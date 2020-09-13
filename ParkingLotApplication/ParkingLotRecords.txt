@@ -1,0 +1,41 @@
+Driver Parked Vehicle Having Number MH0916 At Time 08-09-2020 05:18:56
+Driver Parked Vehicle Having Number MH0916 At Time 08-09-2020 05:18:56
+Driver Unparked Vehicle Having Number MH3030 At Time 08-09-2020 05:28:35
+Driver Unparked Vehicle Having Number MH1011 At Time 08-09-2020 09:04:21
+Driver Parked Vehicle Having Number MH1522 At Time 08-09-2020 08:59:03
+Driver Parked Vehicle Having Number MH8765 At Time 08-09-2020 09:40:19
+Driver Parked Vehicle Having Number MH1997 At Time 08-09-2020 10:56:01
+Driver Unparked Vehicle Having Number MH0987 At Time 08-09-2020 10:56:48
+Driver Parked Vehicle Having Number MH2014 At Time 08-09-2020 20:30:34
+Driver Parked Vehicle Having Number MH2091 At Time 08-09-2020 22:12:29
+Driver Parked Vehicle Having Number MH7991 At Time 09-09-2020 08:40:25
+Driver Unparked Vehicle Having Number MH7991 At Time 09-09-2020 08:55:39
+Driver Unparked Vehicle Having Number MH7991 At Time 09-09-2020 08:55:39
+Driver Unparked Vehicle Having Number MH7991 At Time 09-09-2020 08:55:39
+Driver Parked Vehicle Having Number MH5454 At Time 09-09-2020 22:06:55
+Driver Parked Vehicle Having Number MH5450 At Time 09-09-2020 22:15:41
+Driver Parked Vehicle Having Number MH1616 At Time 09-09-2020 22:27:19
+Driver Parked Vehicle Having Number MH9911 At Time 09-09-2020 22:31:42
+Driver Unparked Vehicle Having Number MH5454 At Time 09-09-2020 22:33:29
+Driver Unparked Vehicle Having Number MH1816 At Time 06-09-2020 23:59:08
+Driver Parked Vehicle Having Number MH1453 At Time 09-09-2020 23:16:09
+Driver Unparked Vehicle Having Number MH1453 At Time 09-09-2020 23:17:34
+Driver Parked Vehicle Having Number MH786 At Time 10-09-2020 03:18:08
+Driver Unparked Vehicle Having Number MH786 At Time 10-09-2020 03:21:50was parked for 3minutes
+Driver Parked Vehicle Having Number MH1379 At Time 10-09-2020 19:47:21
+Driver Unparked Vehicle Having Number MH1379 At Time 10-09-2020 19:52:26was parked for 5minutes with charges Rs45
+Police Parked Vehicle Having Number MH7755 At Time 11-09-2020 04:14:59
+ Unparked Vehicle Having Number MH7755 At Time 11-09-2020 04:32:23was parked for 17minutes with charges Rs58
+driver Parked Vehicle Having Number MH5757 At Time 11-09-2020 04:48:28
+ Unparked Vehicle Having Number MH5757 At Time 11-09-2020 04:49:22was parked for 0minutes with charges Rs40
+owner Unparked Vehicle Having Number MH5995 At Time 11-09-2020 05:02:52was parked for 4minutes with charges Rs30
+owner Parked Vehicle Having Number MH2332 At Time 11-09-2020 07:49:49
+owner Unparked Vehicle Having Number MH2332 At Time 11-09-2020 07:51:56was parked for 2minutes with charges Rs30
+driver Parked Vehicle Having Number MH531 At Time 11-09-2020 08:25:09
+Police Parked Vehicle Having Number MH4488 At Time 11-09-2020 10:29:44
+Police Unparked Vehicle Having Number MH4488 At Time 11-09-2020 10:30:17was parked for 5 minutes with charges Rs45
+driver Parked Vehicle Having Number MH1611 At Time 11-09-2020 20:32:24
+driver Unparked Vehicle Having Number MH1611 At Time 11-09-2020 20:36:18was parked for 15 minuteswith charges Rs50
+owner Parked Vehicle Having Number MH1919 At Time 11-09-2020 21:01:51
+owner Parked Vehicle Having Number MH1414 At Time 11-09-2020 21:52:09
+owner Unparked Vehicle Having Number MH1414 At Time 11-09-2020 21:52:39was parked for 10 minuteswith charges Rs30
